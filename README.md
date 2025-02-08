@@ -5,3 +5,4 @@
  - git push
 # Github flow:
  - create new branch
+ - merge request into feature 2
